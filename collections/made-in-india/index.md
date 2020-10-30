@@ -4,11 +4,14 @@ items:
  - openebs/openebs
  - chatwoot/chatwoot
  - hoppscotch/hoppscotch
+ - frappe/frappe
  - frappe/erpnext
+ - frappe/books
  - kovidgoyal/calibre
  - fission/fission
  - bagisto/bagisto
  - infracloudio/botkube
+ - knadh/listmonk
 display_name: Made in India
 created_by: mvkaran
 image: made-in-india.png
